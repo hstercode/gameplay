@@ -1,0 +1,70 @@
+# This file is used by the game to keep track of your downloaded content.
+# Please do not modify this file.
+SkyrimVR.esm
+*Lanterns Of Skyrim - All In One - Main.esm
+*Unofficial Skyrim Special Edition Patch.esp
+*JKs Skyrim.esp
+*Immersive Citizens - AI Overhaul.esp
+*Immersive Citizens - ELE patch.esp
+*Immersive Citizens - ELFXHardcore patch.esp
+*Immersive Citizens - TC patch.esp
+*RealisticWaterTwo.esp
+*RealisticWaterTwo - FlowingLakes.esp
+*RealisticWaterTwo - iNeed.esp
+*RealisticWaterTwo - Watercolor.esp
+*RWT - People of Skyrim Patch.esp
+*BirdsOfSkyrim_SSE.esp
+*EnhancedLightsandFX.esp
+*ELFXEnhancer.esp
+*ELFX - Exteriors.esp
+*ELFX - Weathers.esp
+*Fusax2.esp
+*KS Hairdo's.esp
+*schools of the holds.esp
+*MagicalCollegeofWinterhold.esp
+*Skyrim Flora Overhaul.esp
+*SoundsofSkyrimComplete.esp
+*SoS_CoT_Patch.esp
+*SoS_DolomiteWeathers_Patch.esp
+*SoS_ELE_Patch.esp
+*SoS_ImmersiveCitizens_Patch.esp
+*SoS_NAT_Patch.esp
+*SoS_Obsidian_Patch.esp
+*SOS_RLOInteriors_Patch.esp
+*SoS_ELFX+Enhancer+Weathers_Patch.esp
+*TrueStormsSE.esp
+*SoS_TrueStorms_Patch.esp
+*WICO - Immersive Character.esp
+*WICO - Immersive People.esp
+*WICO - Immersive Dawnguard.esp
+*WICO - Wild Hunt Gears.esp
+*SMIM-SE-Merged-All.esp
+*IcePenguinWorldMap.esp
+*DiverseDragonsCollectionSE.esp 
+*Hothtrooper44_Armor_Ecksstra.esp
+*Hothtrooper44_ArmorCompilation.esp
+*iNeed.esp
+*iNeed - Extended.esp
+*Point The Way.esp
+*vrmirror.esp
+*dD - Enhanced Blood Main.esp
+*Vivid WeathersSE.esp
+*SoS_VividWeathers_Patch.esp
+*Vivid Weathers SE - Summer Season.esp
+*Vivid Weathers - Extended Rain.esp
+*Ars Metallica.esp
+*Immersive Sounds - Compendium.esp
+*Verdant - Altered Forest Grass.esp
+*HavenBag.esp
+*WindPath.esp
+*LeafRest OnePiece.esp
+*Eli_Ruska.esp
+*Aspens for Riften.esp
+*RiverwoodHuntingCabinSE.esp
+*Mixwater Retreat SSE - Vanilla.esp
+*mrbs-uniqueloot-se.esp
+*Footprints.esp
+*mjhKhajiitSpeak.esp
+*mjhKhajiitSpeakMod - Immersive Citizens.esp
+*mjhKhajiitSpeakMod - iNeed.esp 
+*Inigo.esp
