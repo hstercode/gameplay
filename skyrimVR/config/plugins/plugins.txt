@@ -63,8 +63,12 @@ SkyrimVR.esm
 *RiverwoodHuntingCabinSE.esp
 *Mixwater Retreat SSE - Vanilla.esp
 *mrbs-uniqueloot-se.esp
-*Footprints.esp
 *mjhKhajiitSpeak.esp
 *mjhKhajiitSpeakMod - Immersive Citizens.esp
 *mjhKhajiitSpeakMod - iNeed.esp 
 *Inigo.esp
+*BecomeABard.esp
+*Haem Projects Shalidor.esp
+*Haem Projects Tel Mos.esp
+*LevelersTower.esp
+*My Home Is Your Home.esp
