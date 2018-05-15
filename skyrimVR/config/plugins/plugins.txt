@@ -1,74 +1,84 @@
-# This file is used by the game to keep track of your downloaded content.
-# Please do not modify this file.
-SkyrimVR.esm
 *Lanterns Of Skyrim - All In One - Main.esm
 *Unofficial Skyrim Special Edition Patch.esp
-*JKs Skyrim.esp
-*Immersive Citizens - AI Overhaul.esp
-*Immersive Citizens - ELE patch.esp
-*Immersive Citizens - ELFXHardcore patch.esp
-*Immersive Citizens - TC patch.esp
-*RealisticWaterTwo.esp
-*RealisticWaterTwo - FlowingLakes.esp
-*RealisticWaterTwo - iNeed.esp
-*RealisticWaterTwo - Watercolor.esp
-*RWT - People of Skyrim Patch.esp
-*BirdsOfSkyrim_SSE.esp
+*SkyrimVR.esm
+*SMIM-SE-Merged-All.esp
 *EnhancedLightsandFX.esp
-*ELFXEnhancer.esp
 *ELFX - Exteriors.esp
-*ELFX - Weathers.esp
 *Fusax2.esp
 *KS Hairdo's.esp
 *schools of the holds.esp
-*MagicalCollegeofWinterhold.esp
-*Skyrim Flora Overhaul.esp
-*SoundsofSkyrimComplete.esp
-*SoS_CoT_Patch.esp
-*SoS_DolomiteWeathers_Patch.esp
-*SoS_ELE_Patch.esp
-*SoS_ImmersiveCitizens_Patch.esp
-*SoS_NAT_Patch.esp
-*SoS_Obsidian_Patch.esp
-*SOS_RLOInteriors_Patch.esp
-*SoS_ELFX+Enhancer+Weathers_Patch.esp
-*TrueStormsSE.esp
-*SoS_TrueStorms_Patch.esp
 *WICO - Immersive Character.esp
 *WICO - Immersive People.esp
-*WICO - Immersive Dawnguard.esp
 *WICO - Wild Hunt Gears.esp
-*SMIM-SE-Merged-All.esp
-*IcePenguinWorldMap.esp
-*DiverseDragonsCollectionSE.esp 
+DiverseDragonsCollectionSE.esp
 *Hothtrooper44_Armor_Ecksstra.esp
-*Hothtrooper44_ArmorCompilation.esp
 *iNeed.esp
 *iNeed - Extended.esp
-*Point The Way.esp
-*vrmirror.esp
-*dD - Enhanced Blood Main.esp
-*Vivid WeathersSE.esp
-*SoS_VividWeathers_Patch.esp
-*Vivid Weathers SE - Summer Season.esp
-*Vivid Weathers - Extended Rain.esp
-*Ars Metallica.esp
 *Immersive Sounds - Compendium.esp
-*Verdant - Altered Forest Grass.esp
-*HavenBag.esp
-*WindPath.esp
+*dD - Enhanced Blood Main.esp
+*vrmirror.esp
+*JKs Skyrim.esp
+*MagicalCollegeofWinterhold.esp
+Book Covers Skyrim.esp
+*SoundsofSkyrimComplete.esp
+*Blues Skyrim.esp
+*ReducedFogInteriors.esp
+*JKs Skyrim_Dawn of Skyrim_Patch.esp
+*BirdsOfSkyrim_SSE.esp
+*ELFX - Weathers.esp
+*SoS_ELE_Patch.esp
+*Vivid WeathersSE.esp
+*IcePenguinWorldMap.esp
+*Hothtrooper44_ArmorCompilation.esp
+*mjhKhajiitSpeak.esp
+*schools of the holds.esp
+*Point The Way.esp
+*Inigo.esp
+*SOS_RLOInteriors_Patch.esp
 *LeafRest OnePiece.esp
+*Ars Metallica.esp
+*WICO - Immersive Dawnguard.esp
+*JKs Skryim Leafrest Patch.esp
+*WindPath.esp
+*Skyrim Flora Overhaul.esp
 *Eli_Ruska.esp
 *Aspens for Riften.esp
-*RiverwoodHuntingCabinSE.esp
 *Mixwater Retreat SSE - Vanilla.esp
+*RiverwoodHuntingCabinSE.esp
+*Verdant - Altered Forest Grass.esp
+*ReducedFogExteriors.esp
+*TrueStormsSE.esp
+*Vivid Weathers SE - Summer Season.esp
+*SoS_NAT_Patch.esp
+*SoS_VividWeathers_Patch.esp
+*Vivid Weathers SE - SOS Patch.esp
+*SoS_CoT_Patch.esp
+*Vivid Weathers SE - Extended Snow.esp
+*mjhKhajiitSpeakMod - iNeed.esp
 *mrbs-uniqueloot-se.esp
-*mjhKhajiitSpeak.esp
-*mjhKhajiitSpeakMod - Immersive Citizens.esp
-*mjhKhajiitSpeakMod - iNeed.esp 
-*Inigo.esp
 *BecomeABard.esp
-*Haem Projects Shalidor.esp
 *Haem Projects Tel Mos.esp
+*SoS_Obsidian_Patch.esp
+*SoS_TrueStorms_Patch.esp
+*SoS_DolomiteWeathers_Patch.esp
 *LevelersTower.esp
+*HavenBag.esp
+*Haem Projects Shalidor.esp
+*Footprints.esp
+*Immersive Citizens - AI Overhaul.esp
+*ELFXEnhancer.esp
+Immersive Citizens - OCS patch.esp
+*SoS_ELFX+Enhancer+Weathers_Patch.esp
+*SoS_ImmersiveCitizens_Patch.esp
+Immersive Citizens - ELFXHardcore patch.esp
+*Immersive Citizens - ELE patch.esp
+*Immersive Citizens - TC patch.esp
+*mjhKhajiitSpeakMod - Immersive Citizens.esp
 *My Home Is Your Home.esp
+*RealisticWaterTwo.esp
+*RealisticWaterTwo - FlowingLakes.esp
+*RealisticWaterTwo - iNeed.esp
+*RWT - People of Skyrim Patch.esp
+*RealisticWaterTwo - Watercolor.esp
+RealisticWaterTwo - Open Cities.esp
+*JKs Skyrim_RWT_Patch.esp
