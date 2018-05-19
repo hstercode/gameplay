@@ -6,14 +6,11 @@
 *ELFX - Exteriors.esp
 *Fusax2.esp
 *KS Hairdo's.esp
-*schools of the holds.esp
 *WICO - Immersive Character.esp
 *WICO - Immersive People.esp
 *WICO - Wild Hunt Gears.esp
 DiverseDragonsCollectionSE.esp
 *Hothtrooper44_Armor_Ecksstra.esp
-*iNeed.esp
-*iNeed - Extended.esp
 *Immersive Sounds - Compendium.esp
 *dD - Enhanced Blood Main.esp
 *vrmirror.esp
@@ -22,10 +19,12 @@ DiverseDragonsCollectionSE.esp
 Book Covers Skyrim.esp
 *SoundsofSkyrimComplete.esp
 *Blues Skyrim.esp
+*ELFXEnhancer.esp
 *ReducedFogInteriors.esp
 *JKs Skyrim_Dawn of Skyrim_Patch.esp
 *BirdsOfSkyrim_SSE.esp
 *ELFX - Weathers.esp
+*SoS_ELFX+Enhancer+Weathers_Patch.esp
 *SoS_ELE_Patch.esp
 *Vivid WeathersSE.esp
 *IcePenguinWorldMap.esp
@@ -33,8 +32,11 @@ Book Covers Skyrim.esp
 *mjhKhajiitSpeak.esp
 *schools of the holds.esp
 *Point The Way.esp
+*Skyrim Better Roads and Bridges - All In One - Merged.esp
 *Inigo.esp
+*SoS_ImmersiveCitizens_Patch.esp
 *SOS_RLOInteriors_Patch.esp
+*LeanWolfs Aemers Refuge SE.esp
 *LeafRest OnePiece.esp
 *Ars Metallica.esp
 *WICO - Immersive Dawnguard.esp
@@ -56,7 +58,6 @@ Book Covers Skyrim.esp
 *Vivid Weathers SE - Extended Snow.esp
 *mjhKhajiitSpeakMod - iNeed.esp
 *mrbs-uniqueloot-se.esp
-*BecomeABard.esp
 *Haem Projects Tel Mos.esp
 *SoS_Obsidian_Patch.esp
 *SoS_TrueStorms_Patch.esp
@@ -65,15 +66,8 @@ Book Covers Skyrim.esp
 *HavenBag.esp
 *Haem Projects Shalidor.esp
 *Footprints.esp
-*Immersive Citizens - AI Overhaul.esp
-*ELFXEnhancer.esp
-Immersive Citizens - OCS patch.esp
-*SoS_ELFX+Enhancer+Weathers_Patch.esp
-*SoS_ImmersiveCitizens_Patch.esp
-Immersive Citizens - ELFXHardcore patch.esp
-*Immersive Citizens - ELE patch.esp
-*Immersive Citizens - TC patch.esp
 *mjhKhajiitSpeakMod - Immersive Citizens.esp
+*BecomeABard.esp
 *My Home Is Your Home.esp
 *RealisticWaterTwo.esp
 *RealisticWaterTwo - FlowingLakes.esp
