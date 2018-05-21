@@ -22,6 +22,8 @@ Book Covers Skyrim.esp
 *ELFXEnhancer.esp
 *ReducedFogInteriors.esp
 *JKs Skyrim_Dawn of Skyrim_Patch.esp
+*mjhKhajiitSpeak.esp
+*Tel_Nalta.esp
 *BirdsOfSkyrim_SSE.esp
 *ELFX - Weathers.esp
 *SoS_ELFX+Enhancer+Weathers_Patch.esp
@@ -29,24 +31,32 @@ Book Covers Skyrim.esp
 *Vivid WeathersSE.esp
 *IcePenguinWorldMap.esp
 *Hothtrooper44_ArmorCompilation.esp
-*mjhKhajiitSpeak.esp
 *schools of the holds.esp
 *Point The Way.esp
 *Skyrim Better Roads and Bridges - All In One - Merged.esp
 *Inigo.esp
 *SoS_ImmersiveCitizens_Patch.esp
 *SOS_RLOInteriors_Patch.esp
+*Haem Projects AHO.esp
+*Island Hobbit Home.esp
 *LeanWolfs Aemers Refuge SE.esp
 *LeafRest OnePiece.esp
 *Ars Metallica.esp
 *WICO - Immersive Dawnguard.esp
 *JKs Skryim Leafrest Patch.esp
+*MushroomTower.esp
 *WindPath.esp
+*Marnya.esp
 *Skyrim Flora Overhaul.esp
 *Eli_Ruska.esp
-*Aspens for Riften.esp
 *Mixwater Retreat SSE - Vanilla.esp
+*Viking's Longhouse.esp
 *RiverwoodHuntingCabinSE.esp
+*mrbs-uniqueloot-se.esp
+*mtCladach.esp
+*Haem Projects Tel Mos.esp
+*FishingInSkyrim.esp
+*Aspens for Riften.esp
 *Verdant - Altered Forest Grass.esp
 *ReducedFogExteriors.esp
 *TrueStormsSE.esp
@@ -57,17 +67,18 @@ Book Covers Skyrim.esp
 *SoS_CoT_Patch.esp
 *Vivid Weathers SE - Extended Snow.esp
 *mjhKhajiitSpeakMod - iNeed.esp
-*mrbs-uniqueloot-se.esp
-*Haem Projects Tel Mos.esp
-*SoS_Obsidian_Patch.esp
+*SoS_Obsidian_Patch.espa
 *SoS_TrueStorms_Patch.esp
 *SoS_DolomiteWeathers_Patch.esp
-*LevelersTower.esp
-*HavenBag.esp
-*Haem Projects Shalidor.esp
 *Footprints.esp
 *mjhKhajiitSpeakMod - Immersive Citizens.esp
 *BecomeABard.esp
+*Haem Projects Hermits Stump.esp
+*LevelersTower.esp
+*HavenBag.esp
+*Dwemer Storage Cube.esp
+*Haem Projects Shalidor.esp
+*Tel_Nalta_BoxofGoodies.esp
 *My Home Is Your Home.esp
 *RealisticWaterTwo.esp
 *RealisticWaterTwo - FlowingLakes.esp
