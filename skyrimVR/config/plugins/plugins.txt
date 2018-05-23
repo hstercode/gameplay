@@ -2,8 +2,6 @@
 *Unofficial Skyrim Special Edition Patch.esp
 *SkyrimVR.esm
 *SMIM-SE-Merged-All.esp
-*EnhancedLightsandFX.esp
-*ELFX - Exteriors.esp
 *Fusax2.esp
 *KS Hairdo's.esp
 *WICO - Immersive Character.esp
@@ -19,24 +17,19 @@ DiverseDragonsCollectionSE.esp
 Book Covers Skyrim.esp
 *SoundsofSkyrimComplete.esp
 *Blues Skyrim.esp
-*ELFXEnhancer.esp
 *ReducedFogInteriors.esp
 *JKs Skyrim_Dawn of Skyrim_Patch.esp
 *mjhKhajiitSpeak.esp
 *Tel_Nalta.esp
 *BirdsOfSkyrim_SSE.esp
-*ELFX - Weathers.esp
-*SoS_ELFX+Enhancer+Weathers_Patch.esp
-*SoS_ELE_Patch.esp
 *Vivid WeathersSE.esp
 *IcePenguinWorldMap.esp
 *Hothtrooper44_ArmorCompilation.esp
+*Rowboats (Special Edition).esp
 *schools of the holds.esp
 *Point The Way.esp
 *Skyrim Better Roads and Bridges - All In One - Merged.esp
 *Inigo.esp
-*SoS_ImmersiveCitizens_Patch.esp
-*SOS_RLOInteriors_Patch.esp
 *Haem Projects AHO.esp
 *Island Hobbit Home.esp
 *LeanWolfs Aemers Refuge SE.esp
@@ -55,23 +48,12 @@ Book Covers Skyrim.esp
 *mrbs-uniqueloot-se.esp
 *mtCladach.esp
 *Haem Projects Tel Mos.esp
+*ScopedBows.esp
 *FishingInSkyrim.esp
 *Aspens for Riften.esp
 *Verdant - Altered Forest Grass.esp
 *ReducedFogExteriors.esp
-*TrueStormsSE.esp
-*Vivid Weathers SE - Summer Season.esp
-*SoS_NAT_Patch.esp
-*SoS_VividWeathers_Patch.esp
-*Vivid Weathers SE - SOS Patch.esp
-*SoS_CoT_Patch.esp
-*Vivid Weathers SE - Extended Snow.esp
-*mjhKhajiitSpeakMod - iNeed.esp
-*SoS_Obsidian_Patch.espa
-*SoS_TrueStorms_Patch.esp
-*SoS_DolomiteWeathers_Patch.esp
 *Footprints.esp
-*mjhKhajiitSpeakMod - Immersive Citizens.esp
 *BecomeABard.esp
 *Haem Projects Hermits Stump.esp
 *LevelersTower.esp
@@ -79,6 +61,14 @@ Book Covers Skyrim.esp
 *Dwemer Storage Cube.esp
 *Haem Projects Shalidor.esp
 *Tel_Nalta_BoxofGoodies.esp
+*Dolomite Weathers.esp
+*Vivid Weathers SE - Summer Season.esp
+*Vivid Weathers SE - Extended Snow.esp
+*Vivid Weathers SE - SOS Patch.esp
+*SoS_VividWeathers_Patch.esp
+*SoS_DolomiteWeathers_Patch.esp
+*ScopedBows_EagleEyeTweak.esp
+*ScopedBows_ArrowTweaks.esp
 *My Home Is Your Home.esp
 *RealisticWaterTwo.esp
 *RealisticWaterTwo - FlowingLakes.esp
