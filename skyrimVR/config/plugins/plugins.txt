@@ -1,8 +1,8 @@
-# This file is used by the game to keep track of your downloaded content.
-# Please do not modify this file.
 *Lanterns Of Skyrim - All In One - Main.esm
 *Unofficial Skyrim Special Edition Patch.esp
+*Campfire.esm
 *SkyrimVR.esm
+*Cutting Room Floor.esp
 *SMIM-SE-Merged-All.esp
 *Fusax2.esp
 *KS Hairdo's.esp
@@ -16,6 +16,7 @@ DiverseDragonsCollectionSE.esp
 *vrmirror.esp
 *JKs Skyrim.esp
 *MagicalCollegeofWinterhold.esp
+*Book Covers Skyrim.esp
 *SoundsofSkyrimComplete.esp
 *Blues Skyrim.esp
 *ReducedFogInteriors.esp
@@ -39,6 +40,7 @@ DiverseDragonsCollectionSE.esp
 *WICO - Immersive Dawnguard.esp
 *JKs Skryim Leafrest Patch.esp
 *MushroomTower.esp
+*Immersive Followers.esp
 *WindPath.esp
 *Marnya.esp
 *Skyrim Flora Overhaul.esp
@@ -65,8 +67,9 @@ Verdant - Altered Forest Grass.esp
 *SoS_VividWeathers_Patch.esp
 *Vivid Weathers SE - SOS Patch.esp
 *Vivid Weathers SE - Classic.esp
-*ViewYourselfVR.esp
 SoS_DolomiteWeathers_Patch.esp
+*AmazingFollowerTweaks.esp
+*FollowerWander2.esp
 *My Home Is Your Home.esp
 *RealisticWaterTwo.esp
 *RealisticWaterTwo - FlowingLakes.esp
@@ -75,6 +78,3 @@ RWT - People of Skyrim Patch.esp
 *RealisticWaterTwo - Watercolor.esp
 RealisticWaterTwo - Open Cities.esp
 *JKs Skyrim_RWT_Patch.esp
-*PickDefaultFollowerArmor.esp
-*SimpleOutfitManager.esp
-*Book Covers Skyrim.esp
