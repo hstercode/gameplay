@@ -17,11 +17,11 @@ DiverseDragonsCollectionSE.esp
 *JKs Skyrim.esp
 *MagicalCollegeofWinterhold.esp
 *Book Covers Skyrim.esp
-*SoundsofSkyrimComplete.esp
-*Blues Skyrim.esp
-*ReducedFogInteriors.esp
-*JKs Skyrim_Dawn of Skyrim_Patch.esp
 *mjhKhajiitSpeak.esp
+*JKs Skyrim_Dawn of Skyrim_Patch.esp
+*SoundsofSkyrimComplete.esp
+*ReducedFogInteriors.esp
+*Solitude Expansion.esp
 *Tel_Nalta.esp
 *BirdsOfSkyrim_SSE.esp
 *Vivid WeathersSE.esp
@@ -30,6 +30,8 @@ DiverseDragonsCollectionSE.esp
 *Rowboats (Special Edition).esp
 *schools of the holds.esp
 *Point The Way.esp
+*Kato's Falkreath.esp
+*Tel Mithryn.esp
 *Skyrim Better Roads and Bridges - All In One - Merged.esp
 *Inigo.esp
 *Haem Projects AHO.esp
@@ -68,8 +70,9 @@ Verdant - Altered Forest Grass.esp
 *Vivid Weathers SE - SOS Patch.esp
 *Vivid Weathers SE - Classic.esp
 SoS_DolomiteWeathers_Patch.esp
+*AK - Modesty Mod.esp
+*EquipableMap.esp
 *AmazingFollowerTweaks.esp
-*FollowerWander2.esp
 *My Home Is Your Home.esp
 *RealisticWaterTwo.esp
 *RealisticWaterTwo - FlowingLakes.esp
