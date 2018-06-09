@@ -1,3 +1,5 @@
+# This file is used by the game to keep track of your downloaded content.
+# Please do not modify this file.
 *Lanterns Of Skyrim - All In One - Main.esm
 *Unofficial Skyrim Special Edition Patch.esp
 *Campfire.esm
@@ -18,7 +20,7 @@ DiverseDragonsCollectionSE.esp
 *MagicalCollegeofWinterhold.esp
 *Book Covers Skyrim.esp
 *mjhKhajiitSpeak.esp
-*JKs Skyrim_Dawn of Skyrim_Patch.esp
+JKs Skyrim_Dawn of Skyrim_Patch.esp
 *SoundsofSkyrimComplete.esp
 *ReducedFogInteriors.esp
 *Solitude Expansion.esp
@@ -30,6 +32,7 @@ DiverseDragonsCollectionSE.esp
 *Rowboats (Special Edition).esp
 *schools of the holds.esp
 *Point The Way.esp
+*Immersive Music.esp
 *Kato's Falkreath.esp
 *Tel Mithryn.esp
 *Skyrim Better Roads and Bridges - All In One - Merged.esp
@@ -72,7 +75,6 @@ Verdant - Altered Forest Grass.esp
 SoS_DolomiteWeathers_Patch.esp
 *AK - Modesty Mod.esp
 *EquipableMap.esp
-*AmazingFollowerTweaks.esp
 *My Home Is Your Home.esp
 *RealisticWaterTwo.esp
 *RealisticWaterTwo - FlowingLakes.esp
@@ -81,3 +83,5 @@ RWT - People of Skyrim Patch.esp
 *RealisticWaterTwo - Watercolor.esp
 RealisticWaterTwo - Open Cities.esp
 *JKs Skyrim_RWT_Patch.esp
+*AmazingFollowerTweaks.esp
+*ImprovedMeeko.esp
