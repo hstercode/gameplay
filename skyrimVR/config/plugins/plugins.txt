@@ -1,9 +1,9 @@
 # This file is used by the game to keep track of your downloaded content.
 # Please do not modify this file.
+*SkyrimVR.esm
 *Lanterns Of Skyrim - All In One - Main.esm
 *Unofficial Skyrim Special Edition Patch.esp
 *Campfire.esm
-*SkyrimVR.esm
 *Cutting Room Floor.esp
 *SMIM-SE-Merged-All.esp
 *Fusax2.esp
@@ -52,8 +52,8 @@ JKs Skyrim_Dawn of Skyrim_Patch.esp
 *Eli_Ruska.esp
 *Mixwater Retreat SSE - Vanilla.esp
 *Viking's Longhouse.esp
-*RiverwoodHuntingCabinSE.esp
 *mrbs-uniqueloot-se.esp
+*RiverwoodHuntingCabinSE.esp
 *mtCladach.esp
 *Haem Projects Tel Mos.esp
 *FishingInSkyrim.esp
@@ -75,6 +75,10 @@ Verdant - Altered Forest Grass.esp
 SoS_DolomiteWeathers_Patch.esp
 *AK - Modesty Mod.esp
 *EquipableMap.esp
+*AmazingFollowerTweaks.esp
+*ImprovedMeeko.esp
+*DragonRemains_SSE.esp
+*CampfireCabin.esp
 *My Home Is Your Home.esp
 *RealisticWaterTwo.esp
 *RealisticWaterTwo - FlowingLakes.esp
@@ -83,5 +87,3 @@ RWT - People of Skyrim Patch.esp
 *RealisticWaterTwo - Watercolor.esp
 RealisticWaterTwo - Open Cities.esp
 *JKs Skyrim_RWT_Patch.esp
-*AmazingFollowerTweaks.esp
-*ImprovedMeeko.esp
