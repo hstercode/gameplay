@@ -1,5 +1,3 @@
-# This file is used by the game to keep track of your downloaded content.
-# Please do not modify this file.
 *SkyrimVR.esm
 *Lanterns Of Skyrim - All In One - Main.esm
 *Unofficial Skyrim Special Edition Patch.esp
@@ -19,6 +17,8 @@ DiverseDragonsCollectionSE.esp
 *vrmirror.esp
 *mjhKhajiitSpeak.esp
 JKs Skyrim_Dawn of Skyrim_Patch.esp
+*IcePenguinWorldMap.esp
+*Audio Overhaul Skyrim.esp
 *Immersive Sounds - Compendium.esp
 *dD - Enhanced Blood Main.esp
 *SoundsofSkyrimComplete.esp
@@ -26,13 +26,13 @@ JKs Skyrim_Dawn of Skyrim_Patch.esp
 *Solitude Expansion.esp
 *Tel_Nalta.esp
 *BirdsOfSkyrim_SSE.esp
-*IcePenguinWorldMap.esp
 *Hothtrooper44_ArmorCompilation.esp
 *Rowboats (Special Edition).esp
 *schools of the holds.esp
 *Point The Way.esp
 *Kato's Falkreath.esp
 *Tel Mithryn.esp
+*BirdsAndFlocks_SSE.esp
 *Skyrim Better Roads and Bridges - All In One - Merged.esp
 *Inigo.esp
 *Haem Projects AHO.esp
@@ -71,15 +71,17 @@ JKs Skyrim_Dawn of Skyrim_Patch.esp
 *Dwemer Storage Cube.esp
 *Haem Projects Shalidor.esp
 *Tel_Nalta_BoxofGoodies.esp
+*ImmersiveVRQuickSlots.esp
+*Audio Overhaul Skyrim - Enhanced Blood Patch.esp
+*Audio Overhaul Skyrim - Climates of Tamriel Patch.esp
 *SoS_VividWeathers_Patch.esp
 SoS_DolomiteWeathers_Patch.esp
-*ImmersiveVRQuickSlots.esp
 *My Home Is Your Home.esp
 *RealisticWaterTwo.esp
-*RealisticWaterTwo - FlowingLakes.esp 
+RealisticWaterTwo - FlowingLakes.esp
+RealisticWaterTwo - iNeed.esp
 RWT - People of Skyrim Patch.esp
 RealisticWaterTwo - Watercolor.esp
 RealisticWaterTwo - Open Cities.esp
 *JKs Skyrim_RWT_Patch.esp
-*ClimatesOfTamriel-Interiors-Warm.esp
-*ClimatesOfTamriel-Nights-L1.esp
+*Audio Overhaul Skyrim - Realistic Water Two Patch.esp
