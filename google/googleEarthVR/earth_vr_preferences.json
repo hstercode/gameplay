@@ -1,0 +1,11 @@
+{
+ "labelsState": "LABELS_ENABLED",
+ "comfortModeState": "COMFORT_MODE_ENABLED",
+ "startConfiguration": "NEVER_RUN",
+ "guestMode": "GUEST_MODE_OFF",
+ "humanScaleMode": "DISALLOW_HUMAN_SCALE",
+ "musicMode": "MUSIC_ON",
+ "diskCacheDirectoryPath": "K:/ProgramData/Google/VR/Earth/earthdata",
+ "diskCacheLimitInMb": 104800,
+ "displayMirrorMode": "DISPLAY_MIRROR_ON"
+}

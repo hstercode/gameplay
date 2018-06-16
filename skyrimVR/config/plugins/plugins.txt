@@ -4,35 +4,33 @@
 *Lanterns Of Skyrim - All In One - Main.esm
 *Unofficial Skyrim Special Edition Patch.esp
 *Campfire.esm
+*ClimatesOfTamriel.esm
 *Cutting Room Floor.esp
 *SMIM-SE-Merged-All.esp
-*Fusax2.esp
 *KS Hairdo's.esp
 *WICO - Immersive Character.esp
 *WICO - Immersive People.esp
-*WICO - Wild Hunt Gears.esp
-DiverseDragonsCollectionSE.esp
-*Hothtrooper44_Armor_Ecksstra.esp
-*Immersive Sounds - Compendium.esp
-*dD - Enhanced Blood Main.esp
-*vrmirror.esp
 *JKs Skyrim.esp
 *MagicalCollegeofWinterhold.esp
 *Book Covers Skyrim.esp
+*WICO - Wild Hunt Gears.esp
+DiverseDragonsCollectionSE.esp
+*Hothtrooper44_Armor_Ecksstra.esp
+*vrmirror.esp
 *mjhKhajiitSpeak.esp
 JKs Skyrim_Dawn of Skyrim_Patch.esp
+*Immersive Sounds - Compendium.esp
+*dD - Enhanced Blood Main.esp
 *SoundsofSkyrimComplete.esp
 *ReducedFogInteriors.esp
 *Solitude Expansion.esp
 *Tel_Nalta.esp
 *BirdsOfSkyrim_SSE.esp
-*Vivid WeathersSE.esp
 *IcePenguinWorldMap.esp
 *Hothtrooper44_ArmorCompilation.esp
 *Rowboats (Special Edition).esp
 *schools of the holds.esp
 *Point The Way.esp
-*Immersive Music.esp
 *Kato's Falkreath.esp
 *Tel Mithryn.esp
 *Skyrim Better Roads and Bridges - All In One - Merged.esp
@@ -45,45 +43,43 @@ JKs Skyrim_Dawn of Skyrim_Patch.esp
 *WICO - Immersive Dawnguard.esp
 *JKs Skryim Leafrest Patch.esp
 *MushroomTower.esp
-*Immersive Followers.esp
 *WindPath.esp
 *Marnya.esp
 *Skyrim Flora Overhaul.esp
 *Eli_Ruska.esp
-*Mixwater Retreat SSE - Vanilla.esp
-*Viking's Longhouse.esp
 *mrbs-uniqueloot-se.esp
-*RiverwoodHuntingCabinSE.esp
-*mtCladach.esp
-*Haem Projects Tel Mos.esp
-*FishingInSkyrim.esp
-*Aspens for Riften.esp
-Verdant - Altered Forest Grass.esp
 *ReducedFogExteriors.esp
 *Footprints.esp
 *BecomeABard.esp
-*Haem Projects Hermits Stump.esp
-*LevelersTower.esp
-*HavenBag.esp
-*Dwemer Storage Cube.esp
-*Haem Projects Shalidor.esp
-*Tel_Nalta_BoxofGoodies.esp
-*Vivid Weathers SE - Summer Season.esp
-*SoS_VividWeathers_Patch.esp
-*Vivid Weathers SE - SOS Patch.esp
-*Vivid Weathers SE - Classic.esp
-SoS_DolomiteWeathers_Patch.esp
 *AK - Modesty Mod.esp
 *EquipableMap.esp
 *AmazingFollowerTweaks.esp
 *ImprovedMeeko.esp
 *DragonRemains_SSE.esp
 *CampfireCabin.esp
+*Fusax2.esp
+*Mixwater Retreat SSE - Vanilla.esp
+*Viking's Longhouse.esp
+*RiverwoodHuntingCabinSE.esp
+*mtCladach.esp
+*Haem Projects Tel Mos.esp
+*FishingInSkyrim.esp
+*Aspens for Riften.esp
+*Haem Projects Hermits Stump.esp
+*LevelersTower.esp
+*HavenBag.esp
+*Dwemer Storage Cube.esp
+*Haem Projects Shalidor.esp
+*Tel_Nalta_BoxofGoodies.esp
+*SoS_VividWeathers_Patch.esp
+SoS_DolomiteWeathers_Patch.esp
+*ImmersiveVRQuickSlots.esp
 *My Home Is Your Home.esp
 *RealisticWaterTwo.esp
-*RealisticWaterTwo - FlowingLakes.esp
-*RealisticWaterTwo - iNeed.esp
+*RealisticWaterTwo - FlowingLakes.esp 
 RWT - People of Skyrim Patch.esp
-*RealisticWaterTwo - Watercolor.esp
+RealisticWaterTwo - Watercolor.esp
 RealisticWaterTwo - Open Cities.esp
 *JKs Skyrim_RWT_Patch.esp
+*ClimatesOfTamriel-Interiors-Warm.esp
+*ClimatesOfTamriel-Nights-L1.esp
