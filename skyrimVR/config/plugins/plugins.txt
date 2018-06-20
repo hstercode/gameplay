@@ -75,6 +75,7 @@ JKs Skyrim_Dawn of Skyrim_Patch.esp
 *SoS_VividWeathers_Patch.esp
 SoS_DolomiteWeathers_Patch.esp
 *WetandCold.esp
+*ShowRaceMenuAlternative.esp
 *My Home Is Your Home.esp
 *RealisticWaterTwo.esp
 RealisticWaterTwo - FlowingLakes.esp
