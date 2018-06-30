@@ -12,7 +12,6 @@
 *MagicalCollegeofWinterhold.esp
 *Book Covers Skyrim.esp
 *WICO - Wild Hunt Gears.esp
-DiverseDragonsCollectionSE.esp
 *Hothtrooper44_Armor_Ecksstra.esp
 *vrmirror.esp
 *mjhKhajiitSpeak.esp
@@ -24,6 +23,7 @@ JKs Skyrim_Dawn of Skyrim_Patch.esp
 *SoundsofSkyrimComplete.esp
 *Solitude Expansion.esp
 *Tel_Nalta.esp
+*BreezehomeByLupus.esp
 *BirdsOfSkyrim_SSE.esp
 *Hothtrooper44_ArmorCompilation.esp
 *Rowboats (Special Edition).esp
@@ -36,6 +36,7 @@ JKs Skyrim_Dawn of Skyrim_Patch.esp
 *Inigo.esp
 *Haem Projects AHO.esp
 *Island Hobbit Home.esp
+*fallentreebridgesSSE.esp
 *LeanWolfs Aemers Refuge SE.esp
 *LeafRest OnePiece.esp
 *Ars Metallica.esp
@@ -53,11 +54,20 @@ JKs Skyrim_Dawn of Skyrim_Patch.esp
 *EquipableMap.esp
 *AmazingFollowerTweaks.esp
 *ImprovedMeeko.esp
-*DragonRemains_SSE.esp
 *CampfireCabin.esp
 *Fusax2.esp
+*ImmersiveVRQuickSlots.esp
+*Audio Overhaul Skyrim - Enhanced Blood Patch.esp
+*Audio Overhaul Skyrim - Climates of Tamriel Patch.esp
+*SoS_VividWeathers_Patch.esp
+SoS_DolomiteWeathers_Patch.esp
+*WetandCold.esp
+*ShowRaceMenuAlternative.esp
+*Bells of Skyrim.esp
 *Mixwater Retreat SSE - Vanilla.esp
+*ASLAO - Front Porch (Breezehome).esp
 *Viking's Longhouse.esp
+*Bells of Skyrim - JKs Skyrim Patch.esp
 *RiverwoodHuntingCabinSE.esp
 *mtCladach.esp
 *Haem Projects Tel Mos.esp
@@ -69,13 +79,8 @@ JKs Skyrim_Dawn of Skyrim_Patch.esp
 *Dwemer Storage Cube.esp
 *Haem Projects Shalidor.esp
 *Tel_Nalta_BoxofGoodies.esp
-*ImmersiveVRQuickSlots.esp
-*Audio Overhaul Skyrim - Enhanced Blood Patch.esp
-*Audio Overhaul Skyrim - Climates of Tamriel Patch.esp
-*SoS_VividWeathers_Patch.esp
-SoS_DolomiteWeathers_Patch.esp
-*WetandCold.esp
-*ShowRaceMenuAlternative.esp
+*DiverseDragonsCollectionSE.esp
+*DragonRemains_SSE.esp
 *My Home Is Your Home.esp
 *RealisticWaterTwo.esp
 RealisticWaterTwo - FlowingLakes.esp
