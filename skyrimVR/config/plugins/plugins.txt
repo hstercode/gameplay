@@ -21,6 +21,7 @@ JKs Skyrim_Dawn of Skyrim_Patch.esp
 *Immersive Sounds - Compendium.esp
 *dD - Enhanced Blood Main.esp
 *SoundsofSkyrimComplete.esp
+*Lakeview_Extended.esp
 *Solitude Expansion.esp
 *Tel_Nalta.esp
 *BreezehomeByLupus.esp
@@ -30,13 +31,15 @@ JKs Skyrim_Dawn of Skyrim_Patch.esp
 *schools of the holds.esp
 *Point The Way.esp
 *Kato's Falkreath.esp
-*Tel Mithryn.esp
 *BirdsAndFlocks_SSE.esp
+*NoraHobbitaLocation.esp
+*Tel Mithryn.esp
 *Skyrim Better Roads and Bridges - All In One - Merged.esp
 *Inigo.esp
 *Haem Projects AHO.esp
 *Island Hobbit Home.esp
 *fallentreebridgesSSE.esp
+*Lakeview_Extended_Basement.esp
 *LeanWolfs Aemers Refuge SE.esp
 *LeafRest OnePiece.esp
 *Ars Metallica.esp
@@ -44,11 +47,11 @@ JKs Skyrim_Dawn of Skyrim_Patch.esp
 *JKs Skryim Leafrest Patch.esp
 *MushroomTower.esp
 *WindPath.esp
-*Marnya.esp
 *Skyrim Flora Overhaul.esp
 *Eli_Ruska.esp
 *mrbs-uniqueloot-se.esp
 *Footprints.esp
+IB - All-in-One.esp
 *BecomeABard.esp
 *AK - Modesty Mod.esp
 *EquipableMap.esp
@@ -73,14 +76,15 @@ SoS_DolomiteWeathers_Patch.esp
 *Haem Projects Tel Mos.esp
 *FishingInSkyrim.esp
 *Aspens for Riften.esp
+*DragonRemains_SSE.esp
+*NoStagger.esp
+*CFTO - Lakeview_Extended Patch.esp
 *Haem Projects Hermits Stump.esp
 *LevelersTower.esp
 *HavenBag.esp
 *Dwemer Storage Cube.esp
 *Haem Projects Shalidor.esp
 *Tel_Nalta_BoxofGoodies.esp
-*DiverseDragonsCollectionSE.esp
-*DragonRemains_SSE.esp
 *My Home Is Your Home.esp
 *RealisticWaterTwo.esp
 RealisticWaterTwo - FlowingLakes.esp
