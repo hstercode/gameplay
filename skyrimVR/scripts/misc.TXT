@@ -1,0 +1,13 @@
+
+# fetching sophie 
+
+prid 03004031  
+moveto player
+ 
+player.placeatme 03004031   1
+
+#  Getting rid of Whiterun screeching religious fanatic Heimskr
+
+player.placeatme 00013BAC 1
+Prid  0001A682
+setessential 00013BAC 0

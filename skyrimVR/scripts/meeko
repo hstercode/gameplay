@@ -1,0 +1,20 @@
+# some scripts for Meeko which should not be necessary but either mods are corrupting his file (AFT) and sometimes 
+# Improved Meeko will fix it and sometimes not
+
+Prid  000D95EA
+isessential 000D95EA
+setessential 000D95EA 1
+isessential 000D95EA
+
+setAV Health 99999
+setAV  Stamina 9999
+setAV HealRate 2.0
+
+setAV Confidence 2 
+ForceAV Morality 1
+setAV Confidence 2 
+
+setAV aggression 0 
+setAV energy 2 
+setAV mood 2 
+ 
