@@ -10,7 +10,6 @@
 *WICO - Immersive People.esp
 *JKs Skyrim.esp
 *MagicalCollegeofWinterhold.esp
-*Book Covers Skyrim.esp
 *WICO - Wild Hunt Gears.esp
 *Hothtrooper44_Armor_Ecksstra.esp
 *vrmirror.esp
@@ -20,10 +19,27 @@ JKs Skyrim_Dawn of Skyrim_Patch.esp
 *Audio Overhaul Skyrim.esp
 *Immersive Sounds - Compendium.esp
 *dD - Enhanced Blood Main.esp
+*Tel_Nalta.esp
+*mrbs-uniqueloot-se.esp
+*Footprints.esp
+*AK - Modesty Mod.esp
+*EquipableMap.esp
+*CampfireCabin.esp
+*Fusax2.esp
+*ImmersiveVRQuickSlots.esp
+*Audio Overhaul Skyrim - Enhanced Blood Patch.esp
+*WetandCold.esp
+*ShowRaceMenuAlternative.esp
+*DragonRemains_SSE.esp
+*NoStagger.esp
+*ImprovedMeeko.esp
+*AmazingFollowerTweaks.esp
+*Relationship Dialogue Overhaul.esp
+*Book Covers Skyrim.esp
 *SoundsofSkyrimComplete.esp
+*S3DLandscapes NextGenerationForests.esp
 *Lakeview_Extended.esp
 *Solitude Expansion.esp
-*Tel_Nalta.esp
 *BreezehomeByLupus.esp
 *BirdsOfSkyrim_SSE.esp
 *Hothtrooper44_ArmorCompilation.esp
@@ -49,42 +65,27 @@ JKs Skyrim_Dawn of Skyrim_Patch.esp
 *WindPath.esp
 *Skyrim Flora Overhaul.esp
 *Eli_Ruska.esp
-*mrbs-uniqueloot-se.esp
-*Footprints.esp
 IB - All-in-One.esp
 *BecomeABard.esp
-*AK - Modesty Mod.esp
-*EquipableMap.esp
-*AmazingFollowerTweaks.esp
-*ImprovedMeeko.esp
-*CampfireCabin.esp
-*Fusax2.esp
-*ImmersiveVRQuickSlots.esp
-*Audio Overhaul Skyrim - Enhanced Blood Patch.esp
 *Audio Overhaul Skyrim - Climates of Tamriel Patch.esp
 *SoS_VividWeathers_Patch.esp
 SoS_DolomiteWeathers_Patch.esp
-*WetandCold.esp
-*ShowRaceMenuAlternative.esp
 *Bells of Skyrim.esp
 *Mixwater Retreat SSE - Vanilla.esp
 *ASLAO - Front Porch (Breezehome).esp
 *Viking's Longhouse.esp
 *Bells of Skyrim - JKs Skyrim Patch.esp
 *RiverwoodHuntingCabinSE.esp
-*mtCladach.esp
 *Haem Projects Tel Mos.esp
 *FishingInSkyrim.esp
 *Aspens for Riften.esp
-*DragonRemains_SSE.esp
-*NoStagger.esp
-*CFTO - Lakeview_Extended Patch.esp
 *Haem Projects Hermits Stump.esp
 *LevelersTower.esp
 *HavenBag.esp
 *Dwemer Storage Cube.esp
 *Haem Projects Shalidor.esp
 *Tel_Nalta_BoxofGoodies.esp
+*RGMsAlchemistsCompendium.esp
 *My Home Is Your Home.esp
 *RealisticWaterTwo.esp
 RealisticWaterTwo - FlowingLakes.esp
