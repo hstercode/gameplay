@@ -2,19 +2,75 @@
 # Improved Meeko will fix it and sometimes not
 
 Prid  000D95EA
-isessential 000D95EA
 setessential 000D95EA 1
 isessential 000D95EA
 
 setAV Health 99999
 setAV  Stamina 9999
-setAV HealRate 2.0
+setav healrate 3
+setav healratemult 1
+setav CombatHealthRegenMult 1
 
 setAV Confidence 2 
-ForceAV Morality 1
+setAV Morality 1
 setAV Confidence 2 
 
 setAV aggression 0 
 setAV energy 2 
 setAV mood 2 
+
+#when stuck
+Prid  000D95EA 
+moveto player
+
+Set playeranimalcount to 0
+
+get playeranimalcount 
  
+# did not work and the dismiss command from AFT
+ # remove MEEKO from player service
+Prid  000D95EA 
+RemoveFac 5C84D
+Setrelationshiprank  000D95EA 0
+player.setrelationshiprank 000D95EA 0
+Set playeranimalcount to 0
+
+
+
+Prid  000D95EA 
+
+
+addfac 5C84D 1
+Setrelationshiprank  000D95EA 3
+player.setrelationshiprank 000D95EA 4
+ 
+
+Prid  000D95EA 
+recycleactor
+
+player.moveto  000D95EA  
+
+player.moveto
+
+
+Prid  000D95EA 
+ssq DialogueFollower
+sifh 1
+set FavorFollowTimerFriend to -1
+set FavorTimer to -1
+setplayerteammate 1
+forcerefintoalias follower
+
+show playerfollowercount 
+show playeranimalcount
+
+Prid  000D95EA 
+addfac db1 3
+addfac 84d1b 3
+addfac bd738 3
+addfac 5A1A4 3
+ssq dialoguefollower
+Set favorfollowtimerfriend to -1
+set favortimer to -1
+setplayerteammate 1
+forcerefintoalias follower
