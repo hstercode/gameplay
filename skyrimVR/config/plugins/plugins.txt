@@ -5,77 +5,69 @@
 *ClimatesOfTamriel.esm
 *Cutting Room Floor.esp
 *SMIM-SE-Merged-All.esp
-*KS Hairdo's.esp
 *WICO - Immersive Character.esp
 *WICO - Immersive People.esp
-*JKs Skyrim.esp
-*MagicalCollegeofWinterhold.esp
+*mjhKhajiitSpeak.esp
 *WICO - Wild Hunt Gears.esp
 *Hothtrooper44_Armor_Ecksstra.esp
 *vrmirror.esp
-*mjhKhajiitSpeak.esp
-JKs Skyrim_Dawn of Skyrim_Patch.esp
 *IcePenguinWorldMap.esp
+*Footprints.esp
+*AK - Modesty Mod.esp
+*Fusax2.esp
+*ImmersiveVRQuickSlots.esp
+*ShowRaceMenuAlternative.esp
+*NoStagger.esp
+*ImprovedMeeko.esp
+*DragonRemains_SSE.esp
+*AK - Placeable Statics SE.esp
+*JKs Skyrim.esp
+*MagicalCollegeofWinterhold.esp
 *Audio Overhaul Skyrim.esp
 *Immersive Sounds - Compendium.esp
 *dD - Enhanced Blood Main.esp
-*Tel_Nalta.esp
-*mrbs-uniqueloot-se.esp
-*Footprints.esp
-*AK - Modesty Mod.esp
-*EquipableMap.esp
-*CampfireCabin.esp
-*Fusax2.esp
-*ImmersiveVRQuickSlots.esp
 *Audio Overhaul Skyrim - Enhanced Blood Patch.esp
 *WetandCold.esp
-*ShowRaceMenuAlternative.esp
-*DragonRemains_SSE.esp
-*NoStagger.esp
-*ImprovedMeeko.esp
+*ProudspiremanorTNF.esp
+*Tel_Nalta.esp
 *AmazingFollowerTweaks.esp
 *Relationship Dialogue Overhaul.esp
 *Book Covers Skyrim.esp
 *SoundsofSkyrimComplete.esp
-*S3DLandscapes NextGenerationForests.esp
 *Lakeview_Extended.esp
-*Solitude Expansion.esp
 *BreezehomeByLupus.esp
 *BirdsOfSkyrim_SSE.esp
 *Hothtrooper44_ArmorCompilation.esp
-*Rowboats (Special Edition).esp
 *schools of the holds.esp
 *Point The Way.esp
 *Kato's Falkreath.esp
 *BirdsAndFlocks_SSE.esp
 *NoraHobbitaLocation.esp
-*Tel Mithryn.esp
 *Skyrim Better Roads and Bridges - All In One - Merged.esp
+*Audio Overhaul Skyrim - Climates of Tamriel Patch.esp
+*Antennaria.esp
 *Inigo.esp
-*Haem Projects AHO.esp
 *Island Hobbit Home.esp
 *fallentreebridgesSSE.esp
 *Lakeview_Extended_Basement.esp
 *LeanWolfs Aemers Refuge SE.esp
 *LeafRest OnePiece.esp
+*HearthCraft.esp
+*CampfireCabin.esp
 *Ars Metallica.esp
-*WICO - Immersive Dawnguard.esp
 *JKs Skryim Leafrest Patch.esp
 *MushroomTower.esp
 *WindPath.esp
 *Skyrim Flora Overhaul.esp
 *Eli_Ruska.esp
-IB - All-in-One.esp
+*IB - All-in-One.esp
 *BecomeABard.esp
-*Audio Overhaul Skyrim - Climates of Tamriel Patch.esp
-*SoS_VividWeathers_Patch.esp
-SoS_DolomiteWeathers_Patch.esp
-*Bells of Skyrim.esp
 *Mixwater Retreat SSE - Vanilla.esp
 *ASLAO - Front Porch (Breezehome).esp
+*Cannabis Skyrim SE.esp
 *Viking's Longhouse.esp
-*Bells of Skyrim - JKs Skyrim Patch.esp
 *RiverwoodHuntingCabinSE.esp
+*WICO - Immersive Dawnguard.esp
 *Haem Projects Tel Mos.esp
 *FishingInSkyrim.esp
 *Aspens for Riften.esp
@@ -85,7 +77,10 @@ SoS_DolomiteWeathers_Patch.esp
 *Dwemer Storage Cube.esp
 *Haem Projects Shalidor.esp
 *Tel_Nalta_BoxofGoodies.esp
-*RGMsAlchemistsCompendium.esp
+*SoS_CoT_Patch.esp
+*RDO - iAFT Patch.esp
+*RDO - CRF + USSEP Patch.esp
+RDO - USSEP Patch.esp
 *My Home Is Your Home.esp
 *RealisticWaterTwo.esp
 RealisticWaterTwo - FlowingLakes.esp
