@@ -28,7 +28,6 @@
 *dD - Enhanced Blood Main.esp
 *Audio Overhaul Skyrim - Enhanced Blood Patch.esp
 *WetandCold.esp
-*ProudspiremanorTNF.esp
 *Tel_Nalta.esp
 *AmazingFollowerTweaks.esp
 *Relationship Dialogue Overhaul.esp
@@ -36,7 +35,6 @@
 *SoundsofSkyrimComplete.esp
 *Lakeview_Extended.esp
 *BreezehomeByLupus.esp
-*BirdsOfSkyrim_SSE.esp
 *Hothtrooper44_ArmorCompilation.esp
 *schools of the holds.esp
 *Point The Way.esp
@@ -46,8 +44,10 @@
 *Skyrim Better Roads and Bridges - All In One - Merged.esp
 *Audio Overhaul Skyrim - Climates of Tamriel Patch.esp
 *Antennaria.esp
+*RiversideLodge.esp
 *Inigo.esp
 *Island Hobbit Home.esp
+*MammothManor.esp
 *fallentreebridgesSSE.esp
 *Lakeview_Extended_Basement.esp
 *LeanWolfs Aemers Refuge SE.esp
@@ -56,31 +56,29 @@
 *CampfireCabin.esp
 *Ars Metallica.esp
 *JKs Skryim Leafrest Patch.esp
-*MushroomTower.esp
 *WindPath.esp
 *Skyrim Flora Overhaul.esp
 *Eli_Ruska.esp
+*Custom Family Home.esp
 *IB - All-in-One.esp
 *BecomeABard.esp
-*Mixwater Retreat SSE - Vanilla.esp
 *ASLAO - Front Porch (Breezehome).esp
 *Cannabis Skyrim SE.esp
-*Viking's Longhouse.esp
-*RiverwoodHuntingCabinSE.esp
 *WICO - Immersive Dawnguard.esp
 *Haem Projects Tel Mos.esp
 *FishingInSkyrim.esp
-*Aspens for Riften.esp
 *Haem Projects Hermits Stump.esp
 *LevelersTower.esp
 *HavenBag.esp
-*Dwemer Storage Cube.esp
 *Haem Projects Shalidor.esp
 *Tel_Nalta_BoxofGoodies.esp
 *SoS_CoT_Patch.esp
 *RDO - iAFT Patch.esp
 *RDO - CRF + USSEP Patch.esp
 RDO - USSEP Patch.esp
+LessDragons50.esp
+LessDragons25.esp
+*LessDragons10.esp
 *My Home Is Your Home.esp
 *RealisticWaterTwo.esp
 RealisticWaterTwo - FlowingLakes.esp
