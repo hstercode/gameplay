@@ -1,10 +1,12 @@
 *SkyrimVR.esm
-*Lanterns Of Skyrim - All In One - Main.esm
 *Unofficial Skyrim Special Edition Patch.esp
 *Campfire.esm
 *ClimatesOfTamriel.esm
-*Cutting Room Floor.esp
 *SMIM-SE-Merged-All.esp
+*Audio Overhaul Skyrim.esp
+*Immersive Sounds - Compendium.esp
+*SoundsofSkyrimComplete.esp
+*Cutting Room Floor.esp
 *WICO - Immersive Character.esp
 *WICO - Immersive People.esp
 *mjhKhajiitSpeak.esp
@@ -23,21 +25,16 @@
 *AK - Placeable Statics SE.esp
 *JKs Skyrim.esp
 *MagicalCollegeofWinterhold.esp
-*Audio Overhaul Skyrim.esp
-*Immersive Sounds - Compendium.esp
 *dD - Enhanced Blood Main.esp
 *Audio Overhaul Skyrim - Enhanced Blood Patch.esp
 *WetandCold.esp
+*Lakeview_Extended.esp
 *Tel_Nalta.esp
 *AmazingFollowerTweaks.esp
 *Relationship Dialogue Overhaul.esp
 *Book Covers Skyrim.esp
-*SoundsofSkyrimComplete.esp
-*Lakeview_Extended.esp
 *BreezehomeByLupus.esp
 *Hothtrooper44_ArmorCompilation.esp
-*schools of the holds.esp
-*Point The Way.esp
 *Kato's Falkreath.esp
 *BirdsAndFlocks_SSE.esp
 *NoraHobbitaLocation.esp
@@ -71,7 +68,6 @@
 *LevelersTower.esp
 *HavenBag.esp
 *Haem Projects Shalidor.esp
-*Tel_Nalta_BoxofGoodies.esp
 *SoS_CoT_Patch.esp
 *RDO - iAFT Patch.esp
 *RDO - CRF + USSEP Patch.esp
@@ -80,11 +76,7 @@ LessDragons50.esp
 LessDragons25.esp
 *LessDragons10.esp
 *My Home Is Your Home.esp
+*Tel_Nalta_BoxofGoodies.esp
 *RealisticWaterTwo.esp
-RealisticWaterTwo - FlowingLakes.esp
-RealisticWaterTwo - iNeed.esp
-RWT - People of Skyrim Patch.esp
-RealisticWaterTwo - Watercolor.esp
-RealisticWaterTwo - Open Cities.esp
 *JKs Skyrim_RWT_Patch.esp
 *Audio Overhaul Skyrim - Realistic Water Two Patch.esp
