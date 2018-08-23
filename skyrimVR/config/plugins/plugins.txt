@@ -17,10 +17,10 @@ Lanterns Of Skyrim - All In One - Main.esm
 JKs Skyrim_Dawn of Skyrim_Patch.esp
 *Lakeview_Extended.esp
 *mjhKhajiitSpeak.esp
-Solitude Expansion.esp
 *Tel_Nalta.esp
 *AmazingFollowerTweaks.esp
 *BreezehomeByLupus.esp
+*SkyTEST-RealisticAnimals&Predators.esp
 *Hothtrooper44_ArmorCompilation.esp
 *Kato's Falkreath.esp
 *BirdsAndFlocks_SSE.esp
@@ -28,7 +28,6 @@ Solitude Expansion.esp
 *Antennaria.esp
 *Skyrim Better Roads and Bridges - All In One - Merged.esp
 Tel Mithryn.esp
-*RiversideLodge.esp
 *Inigo.esp
 *Island Hobbit Home.esp
 *MammothManor.esp
@@ -44,12 +43,11 @@ MushroomTower.esp
 *WindPath.esp
 *Skyrim Flora Overhaul.esp
 *Eli_Ruska.esp
-Mixwater Retreat SSE - Vanilla.esp
+*Mixwater Retreat SSE - Vanilla.esp
 *ASLAO - Front Porch (Breezehome).esp
 *Audio Overhaul Skyrim - Climates of Tamriel Patch.esp
 *dD - Enhanced Blood Main.esp
 *Audio Overhaul Skyrim - Enhanced Blood Patch.esp
-*Custom Family Home.esp
 *WICO - Immersive People.esp
 *IB - All-in-One.esp
 *BecomeABard.esp
@@ -57,12 +55,13 @@ Mixwater Retreat SSE - Vanilla.esp
 *Cannabis Skyrim SE.esp
 ClimatesOfTamriel-Interiors-Warm.esp
 *DragonRemains_SSE.esp
-Viking's Longhouse.esp
+*Viking's Longhouse.esp
 *Haem Projects Tel Mos.esp
 *FishingInSkyrim.esp
 *Haem Projects Hermits Stump.esp
 *LevelersTower.esp
 *HavenBag.esp
+*ProudspiremanorTNFBP.esp
 Dwemer Storage Cube.esp
 *Footprints.esp
 *Fusax2.esp
@@ -77,7 +76,6 @@ LessDragons50.esp
 *mjhKhajiitSpeakMod - Cutting Room Floor.esp
 *My Home Is Your Home.esp
 *NoStagger.esp
-*PsilocybinMushrooms.esp
 *ShowRaceMenuAlternative.esp
 *SoS_CoT_Patch.esp
 *Tel_Nalta_BoxofGoodies.esp
