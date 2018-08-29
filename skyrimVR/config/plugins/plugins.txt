@@ -2,6 +2,7 @@
 Lanterns Of Skyrim - All In One - Main.esm
 *Unofficial Skyrim Special Edition Patch.esp
 *LegacyoftheDragonborn.esm
+*WaterViewSkyrim.esm
 *Campfire.esm
 *ClimatesOfTamriel.esm
 *SMIM-SE-Merged-All.esp
@@ -9,7 +10,6 @@ Lanterns Of Skyrim - All In One - Main.esm
 *Immersive Sounds - Compendium.esp
 *SoundsofSkyrimComplete.esp
 *Cutting Room Floor.esp
-*AK - Modesty Mod.esp
 *AK - Placeable Statics SE.esp
 *JKs Skyrim.esp
 *MagicalCollegeofWinterhold.esp
@@ -40,6 +40,7 @@ mrbs-uniqueloot-se.esp
 *HearthCraft.esp
 *JKs Skryim Leafrest Patch.esp
 MushroomTower.esp
+*Shrek_House.esp
 *WindPath.esp
 *Skyrim Flora Overhaul.esp
 *Eli_Ruska.esp
@@ -63,6 +64,7 @@ ClimatesOfTamriel-Interiors-Warm.esp
 *HavenBag.esp
 *ProudspiremanorTNFBP.esp
 Dwemer Storage Cube.esp
+*FNIS.esp
 *Footprints.esp
 *Fusax2.esp
 *Haem Projects Shalidor.esp
@@ -70,12 +72,13 @@ Dwemer Storage Cube.esp
 *IcePenguinWorldMap.esp
 *ImmersiveVRQuickSlots.esp
 *ImprovedMeeko.esp
-*LessDragons10.esp
+LessDragons10.esp
 LessDragons25.esp
 LessDragons50.esp
 *mjhKhajiitSpeakMod - Cutting Room Floor.esp
 *My Home Is Your Home.esp
 *NoStagger.esp
+*Realistic-Voice.esp
 *ShowRaceMenuAlternative.esp
 *SoS_CoT_Patch.esp
 *Tel_Nalta_BoxofGoodies.esp
@@ -90,12 +93,10 @@ LessDragons50.esp
 *Relationship Dialogue Overhaul.esp
 *RDO - iAFT Patch.esp
 *RDO - CRF + USSEP Patch.esp
-RDO - USSEP Patch.esp
 *RealisticWaterTwo.esp
 *Audio Overhaul Skyrim - Realistic Water Two Patch.esp
 *JKs Skyrim_RWT_Patch.esp
-RealisticWaterTwo - FlowingLakes.esp
-RealisticWaterTwo - iNeed.esp
-RealisticWaterTwo - Open Cities.esp
-RealisticWaterTwo - Watercolor.esp
+*RealisticWaterTwo - Waves.esp
+*AK - Modesty Mod.esp
+*RealisticWaterTwo - Watercolor.esp
 RWT - People of Skyrim Patch.esp

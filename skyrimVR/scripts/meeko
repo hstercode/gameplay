@@ -5,18 +5,18 @@ Prid  000D95EA
 setessential 000D95EA 1
 isessential 000D95EA
 
-setAV Health 99999
+setAV Health 9999
 setAV  Stamina 9999
 setav healrate 3
 setav healratemult 1
 setav CombatHealthRegenMult 1
 
-setAV Confidence 2 
-setAV Morality 1
-setAV Confidence 2 
-
-setAV aggression 0 
 setAV energy 2 
+setAV Confidence 3 
+setAV Morality 1 
+
+setAV aggression 3 
+
 setAV mood 2 
 
 #when stuck
@@ -38,6 +38,14 @@ Set playeranimalcount to 0
 
 
 Prid  000D95EA 
+Player.Setav Stamina 350
+
+proudspire fix
+PRID E25D4
+
+enable
+
+ 
 
 
 addfac 5C84D 1
