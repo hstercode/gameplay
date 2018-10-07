@@ -71,12 +71,14 @@ Dwemer Storage Cube.esp
 *Hothtrooper44_Armor_Ecksstra.esp
 *IcePenguinWorldMap.esp
 *ImmersiveVRQuickSlots.esp
-*ImprovedMeeko.esp
-LessDragons10.esp
+ImprovedMeeko.esp
+*Jewelry Of Power.esp
+*LessDragons10.esp
 LessDragons25.esp
 LessDragons50.esp
 *mjhKhajiitSpeakMod - Cutting Room Floor.esp
 *My Home Is Your Home.esp
+*NoMoreBeeSound.esp
 *NoStagger.esp
 *Realistic-Voice.esp
 *ShowRaceMenuAlternative.esp
@@ -91,12 +93,13 @@ LessDragons50.esp
 *mjhKhajiitSpeakMod - Immersive Citizens.esp
 *SoS_ImmersiveCitizens_Patch.esp
 *Relationship Dialogue Overhaul.esp
+*ImmortalMeeko.esp
 *RDO - iAFT Patch.esp
 *RDO - CRF + USSEP Patch.esp
 *RealisticWaterTwo.esp
 *Audio Overhaul Skyrim - Realistic Water Two Patch.esp
 *JKs Skyrim_RWT_Patch.esp
 *RealisticWaterTwo - Waves.esp
-*AK - Modesty Mod.esp
+AK - Modesty Mod.esp
 *RealisticWaterTwo - Watercolor.esp
 RWT - People of Skyrim Patch.esp
